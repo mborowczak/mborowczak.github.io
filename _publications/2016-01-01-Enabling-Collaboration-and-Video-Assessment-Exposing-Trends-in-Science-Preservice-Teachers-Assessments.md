@@ -1,5 +1,5 @@
 ---
-title: "Enabling Collaboration and Video Assessment: Exposing Trends in Science Preservice Teachers&apos; Assessments"
+title: "Enabling Collaboration and Video Assessment: Exposing Trends in Science Preservice Teachers  Assessments"
 collection: publications
 permalink: /publication/2016-01-01-Enabling-Collaboration-and-Video-Assessment-Exposing-Trends-in-Science-Preservice-Teachers-Assessments
 excerpt: 'Available at \url{https://goo.gl/yKweht}'
