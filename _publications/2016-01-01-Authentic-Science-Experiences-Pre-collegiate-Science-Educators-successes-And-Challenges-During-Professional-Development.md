@@ -1,9 +1,9 @@
 ---
 title: "Authentic Science Experiences: Pre-collegiate Science Educators' successes And Challenges During Professional Development"
 collection: publications
-permalink: /publication/2016-Authentic-Science-Experiences-Pre-collegiate-Science-Educators-successes-And-Challenges-During-Professional-Development
+permalink: /publication/2016-01-01-Authentic-Science-Experiences-Pre-collegiate-Science-Educators-successes-And-Challenges-During-Professional-Development
 excerpt: 'Available at \url{https://goo.gl/nYd6p9}'
-date: 2016
+date: 2016-01-01
 venue: 'Problems of Education in the 21st Century'
 ---
 Available at \url{https://goo.gl/nYd6p9}

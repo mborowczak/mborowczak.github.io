@@ -1,9 +1,9 @@
 ---
 title: "Enabling Collaboration and Video Assessment: Exposing Trends in Science Preservice Teachers' Assessments"
 collection: publications
-permalink: /publication/2016-Enabling-Collaboration-and-Video-Assessment-Exposing-Trends-in-Science-Preservice-Teachers-Assessments
+permalink: /publication/2016-01-01-Enabling-Collaboration-and-Video-Assessment-Exposing-Trends-in-Science-Preservice-Teachers-Assessments
 excerpt: 'Available at \url{https://goo.gl/yKweht}'
-date: 2016
+date: 2016-01-01
 venue: 'Contemporary Issues in Technology and Teacher Education'
 ---
 Available at \url{https://goo.gl/yKweht}

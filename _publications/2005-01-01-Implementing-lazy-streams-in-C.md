@@ -1,9 +1,9 @@
 ---
 title: "Implementing lazy streams in C++"
 collection: publications
-permalink: /publication/2005-Implementing-lazy-streams-in-C
+permalink: /publication/2005-01-01-Implementing-lazy-streams-in-C
 excerpt: 'Available at \url{https://goo.gl/EbT6Y2}'
-date: 2005
+date: 2005-01-01
 venue: 'Morehead Electronic Journal of Applicable Mathematics'
 ---
 Available at \url{https://goo.gl/EbT6Y2}
