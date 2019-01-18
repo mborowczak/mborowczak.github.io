@@ -1,7 +1,7 @@
 ---
 title: "Teaching computer science \& engineering through robotics: Science \& art form"
 collection: publications
-permalink: /publication/2012-01-01-Teaching-computer-science--engineering-through-robotics-Science--art-form
+permalink: /publication/2012-01-01-Teaching-computer-science-engineering-through-robotics-Science-art-form
 excerpt: 'Available at \url{https://goo.gl/oEo9pn}'
 date: 2012-01-01
 venue: 'Problems of Education in the 21st Century'
