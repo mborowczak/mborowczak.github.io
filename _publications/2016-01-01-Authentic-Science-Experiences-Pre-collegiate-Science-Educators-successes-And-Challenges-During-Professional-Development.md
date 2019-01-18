@@ -8,4 +8,4 @@ venue: 'Problems of Education in the 21st Century'
 ---
 Available at \url{https://goo.gl/nYd6p9}
 
-Recommended citation - Use [Google Scholar](https://scholar.google.com/scholar?q=Authentic+Science+Experiences:+Pre-collegiate+Science+Educators&#x27;+successes+And+Challenges+During+Professional+Development) for appropriate Citation 
+Recommended citation - Use [Google Scholar](https://scholar.google.com/scholar?q=Authentic+Science+Experiences:+Pre+collegiate+Science+Educators&#x27;+successes+And+Challenges+During+Professional+Development) for appropriate Citation 

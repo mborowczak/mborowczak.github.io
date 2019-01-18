@@ -8,4 +8,4 @@ venue: 'Current plant biology'
 ---
 Available at \url{https://goo.gl/SGawhd}
 
-Recommended citation - Use [Google Scholar](https://scholar.google.com/scholar?q=CressInt:+A+user-friendly+web+resource+for+genome-scale+exploration+of+gene+regulation+in+Arabidopsis+thaliana) for appropriate Citation 
+Recommended citation - Use [Google Scholar](https://scholar.google.com/scholar?q=CressInt:+A+user+friendly+web+resource+for+genome+scale+exploration+of+gene+regulation+in+Arabidopsis+thaliana) for appropriate Citation 
