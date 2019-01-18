@@ -1,5 +1,5 @@
 ---
-title: "Teaching computer science \& engineering through robotics: Science \& art form"
+title: "Teaching computer science \&amp; engineering through robotics: Science \&amp; art form"
 collection: publications
 permalink: /publication/2012-01-01-Teaching-computer-science-engineering-through-robotics-Science-art-form
 excerpt: 'Available at \url{https://goo.gl/oEo9pn}'
