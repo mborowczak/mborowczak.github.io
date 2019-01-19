@@ -13,4 +13,4 @@ I am an Assistant Professor in the [Department of Computer Science](http://www.u
 I currently serve as the Director of the [Cybersecurity Education and Research (CEDAR) Center](http://www.uwyo.edu/CEDAR).
 
 
-I am in the process of converting my site over to a Jekyll-powered git-repository backed site. Please check back for updates (especially to this page, my [[publications]],[[teaching]], and a forthcoming [[research]] page).
+I am in the process of converting my site over to a Jekyll-powered git-repository backed site. Please check back for updates (especially to this page, my [[publications]],[[teaching]],[[cv]], and a forthcoming [[research]] page).
