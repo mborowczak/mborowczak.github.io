@@ -5,7 +5,7 @@ permalink: /publication/2012-01-01-Teaching-computer-science-engineering-through
 excerpt: 'Available at \url{https://goo.gl/oEo9pn}'
 date: 2012-01-01
 venue: 'Problems of Education in the 21st Century'
-citation: ' Andrea Burrows,  Mike Borowczak,  Timothy Slater,  J Haynes, **Teaching computer science and engineering through robotics: Science and art form**. Problems of Education in the 21st Century, 2012.'
+citation: ' Andrea Burrows,  Mike Borowczak,  Timothy Slater,  J Haynes, &quot;Teaching computer science and engineering through robotics: Science and art form&quot;. Problems of Education in the 21st Century, 2012.'
 ---
 Available at \url{https://goo.gl/oEo9pn}
 

@@ -5,7 +5,7 @@ permalink: /publication/2015-01-01-Communication-in-STEM-education-A-non-intrusi
 excerpt: 'Available at \url{https://goo.gl/XaKzEU}'
 date: 2015-01-01
 venue: 'Problems of Education in the 21st Century'
-citation: ' Mike Borowczak, **Communication in STEM education: A non-intrusive method for assessment and K20 educator feedback**. Problems of Education in the 21st Century, 2015.'
+citation: ' Mike Borowczak, &quot;Communication in STEM education: A non-intrusive method for assessment and K20 educator feedback&quot;. Problems of Education in the 21st Century, 2015.'
 ---
 Available at \url{https://goo.gl/XaKzEU}
 

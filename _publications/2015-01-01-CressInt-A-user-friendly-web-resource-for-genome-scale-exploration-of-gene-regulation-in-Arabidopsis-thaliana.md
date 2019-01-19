@@ -5,7 +5,7 @@ permalink: /publication/2015-01-01-CressInt-A-user-friendly-web-resource-for-gen
 excerpt: 'Available at \url{https://goo.gl/SGawhd}'
 date: 2015-01-01
 venue: 'Current plant biology'
-citation: ' Xiaoting Chen,  Kevin Ernst,  Frances Soman,  Mike Borowczak,  Matthew Weirauch, **CressInt: A user-friendly web resource for genome-scale exploration of gene regulation in Arabidopsis thaliana**. Current plant biology, 2015.'
+citation: ' Xiaoting Chen,  Kevin Ernst,  Frances Soman,  Mike Borowczak,  Matthew Weirauch, &quot;CressInt: A user-friendly web resource for genome-scale exploration of gene regulation in Arabidopsis thaliana&quot;. Current plant biology, 2015.'
 ---
 Available at \url{https://goo.gl/SGawhd}
 
