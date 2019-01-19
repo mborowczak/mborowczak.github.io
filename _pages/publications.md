@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
    {% assign currentYear = post.date | date: "%Y" %}
    {% if currentYear != myYear %}
-     <h2>{{ currentYear }}</h2>
+     ## {{currentYear}}
      {% assign myYear = currentYear %}
    {% endif %}
    
