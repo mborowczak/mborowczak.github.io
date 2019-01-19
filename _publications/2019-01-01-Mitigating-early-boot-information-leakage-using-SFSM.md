@@ -4,5 +4,6 @@ collection: publications
 permalink: /publication/2019-01-01-Mitigating-early-boot-information-leakage-using-SFSM
 date: 2019-01-01
 venue: 'IET Computers and Digital Techniques'
+citation: ' Mike Borowczak,  Ranga Vemuri, **Mitigating early-boot information leakage using S*FSM**. IET Computers and Digital Techniques, 2019.'
 ---
-Recommended citation - Use [Google Scholar](https://scholar.google.com/scholar?q=Mitigating+early+boot+information+leakage+using+S*FSM) for appropriate Citation 
+Use [Google Scholar](https://scholar.google.com/scholar?q=Mitigating+early+boot+information+leakage+using+S*FSM) for full citation

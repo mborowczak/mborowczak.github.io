@@ -5,7 +5,8 @@ permalink: /publication/2016-01-01-Enabling-Collaboration-and-Video-Assessment-E
 excerpt: 'Available at \url{https://goo.gl/yKweht}'
 date: 2016-01-01
 venue: 'Contemporary Issues in Technology and Teacher Education'
+citation: ' Mike Borowczak,  Andrea Burrows, **Enabling Collaboration and Video Assessment: Exposing Trends in Science Preservice Teachers  Assessments**. Contemporary Issues in Technology and Teacher Education, 2016.'
 ---
 Available at \url{https://goo.gl/yKweht}
 
-Recommended citation - Use [Google Scholar](https://scholar.google.com/scholar?q=Enabling+Collaboration+and+Video+Assessment:+Exposing+Trends+in+Science+Preservice+Teachers&#x27;+Assessments) for appropriate Citation 
+Use [Google Scholar](https://scholar.google.com/scholar?q=Enabling+Collaboration+and+Video+Assessment:+Exposing+Trends+in+Science+Preservice+Teachers&#x27;+Assessments) for full citation
