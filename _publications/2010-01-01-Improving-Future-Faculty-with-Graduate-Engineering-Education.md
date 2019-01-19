@@ -1,8 +1,8 @@
 ---
 title: "Improving Future Faculty with Graduate Engineering Education"
 collection: publications
-permalink: /publication/2010-06-21-Improving-Future-Faculty-with-Graduate-Engineering-Education
-date: 2010-06-21
+permalink: /publication/2010-01-01-Improving-Future-Faculty-with-Graduate-Engineering-Education
+date: 2010-01-01
 venue: 'In the proceedings of American Society for Engineering Education'
 paperurl: 'https://goo.gl/kjcTYG'
 citation: ' Andrea Burrows,  Anant Kukreti,  Mike Borowczak,  Amr Safwat, &quot;Improving Future Faculty with Graduate Engineering Education.&quot; In the proceedings of American Society for Engineering Education, 2010.'
