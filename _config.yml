@@ -75,32 +75,32 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-132809015-1"
 
 
 # Site Author
 author:
-  name             : "Dr. Mike"
+  name             : "Dr. Mike Borowczak"
   avatar           : "headshot_oct.jpg"
   bio              : "Researcher, problem solver, connector, educator ..."
   location         : "Laramie, WY"
   employer         : "University of Wyoming"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=avX_skAAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?user=avX_skAAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "mike.borowczak@uwyo.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Mike_Borowczak"
+  researchgate     : "https://www.researchgate.net/profile/Mike_Borowczak"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/uwcedar/"
   foursquare       :
   github           : "mborowczak"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mborowczak/"
   orcid            : "http://orcid.org/0000-0001-9409-8245"
   pinterest        :
   soundcloud       :
