@@ -7,6 +7,4 @@ venue: 'In the proceedings of Proceedings of world conference on e-learning in c
 paperurl: 'https://goo.gl/x7u44W'
 citation: ' Andrea Burrows,  Mike Borowczak, &quot;Online STEM integration: Pre-service science teachers in the Director s Chair ..&quot; In the proceedings of Proceedings of world conference on e-learning in corporate, government, healthcare, and higher education, 2014.'
 ---
-[Download paper here](https://goo.gl/x7u44W)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Online+STEM+integration:+Pre+service+science+teachers+in+the+Director&#x27;s+Chair+.) for full citation
+[Access paper here](https://goo.gl/x7u44W){:target="_blank"}

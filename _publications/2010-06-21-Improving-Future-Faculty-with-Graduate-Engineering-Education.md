@@ -7,6 +7,4 @@ venue: 'In the proceedings of American Society for Engineering Education'
 paperurl: 'https://goo.gl/kjcTYG'
 citation: ' Andrea Burrows,  Anant Kukreti,  Mike Borowczak,  Amr Safwat, &quot;Improving Future Faculty with Graduate Engineering Education.&quot; In the proceedings of American Society for Engineering Education, 2010.'
 ---
-[Download paper here](https://goo.gl/kjcTYG)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Improving+Future+Faculty+with+Graduate+Engineering+Education) for full citation
+[Access paper here](https://goo.gl/kjcTYG){:target="_blank"}

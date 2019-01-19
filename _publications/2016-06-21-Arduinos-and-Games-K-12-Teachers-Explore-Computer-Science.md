@@ -7,6 +7,4 @@ venue: 'In the proceedings of 2016 ASEE Annual Conference and Exposition'
 paperurl: 'https://goo.gl/dyup3e'
 citation: ' Andrea Burrows,  Mike Borowczak, &quot;Arduinos and Games: K-12 Teachers Explore Computer Science.&quot; In the proceedings of 2016 ASEE Annual Conference and Exposition, 2016.'
 ---
-[Download paper here](https://goo.gl/dyup3e)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Arduinos+and+Games:+K+12+Teachers+Explore+Computer+Science) for full citation
+[Access paper here](https://goo.gl/dyup3e){:target="_blank"}

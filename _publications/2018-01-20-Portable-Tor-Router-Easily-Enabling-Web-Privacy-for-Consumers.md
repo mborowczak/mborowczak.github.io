@@ -7,6 +7,4 @@ venue: 'In the proceedings of IEEE International Conference on Consumer Electron
 paperurl: 'https://goo.gl/fQ7hyP'
 citation: ' Adrian Barberis,  Wyatt Emery,  Danny Radosevich,  Mike Borowczak, &quot;Portable Tor Router: Easily Enabling Web Privacy for Consumers.&quot; In the proceedings of IEEE International Conference on Consumer Electronics, 2018. ICCE 2018., 2018.'
 ---
-[Download paper here](https://goo.gl/fQ7hyP)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Portable+Tor+Router:+Easily+Enabling+Web+Privacy+for+Consumers) for full citation
+[Access paper here](https://goo.gl/fQ7hyP){:target="_blank"}

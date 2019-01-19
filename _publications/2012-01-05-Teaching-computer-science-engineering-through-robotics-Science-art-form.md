@@ -7,6 +7,4 @@ venue: 'Problems of Education in the 21st Century'
 paperurl: 'https://goo.gl/oEo9pn'
 citation: ' Andrea Burrows,  Mike Borowczak,  Timothy Slater,  J Haynes, &quot;Teaching computer science and engineering through robotics: Science and art form.&quot; Problems of Education in the 21st Century, 2012.'
 ---
-[Download paper here](https://goo.gl/oEo9pn)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Teaching+computer+science+&amp;+engineering+through+robotics:+Science+&amp;+art+form) for full citation
+[Access paper here](https://goo.gl/oEo9pn){:target="_blank"}

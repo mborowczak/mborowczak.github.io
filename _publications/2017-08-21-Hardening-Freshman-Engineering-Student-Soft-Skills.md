@@ -7,6 +7,4 @@ venue: 'In the proceedings of of First Year Engineering Education Conference of 
 paperurl: 'https://goo.gl/jWd2gp'
 citation: ' Andrea Burrows,  Mike Borowczak, &quot;Hardening Freshman Engineering Student Soft Skills..&quot; In the proceedings of of First Year Engineering Education Conference of the American Society of Engineering Education 2017, FYEE-ASEE, 2017., 2017.'
 ---
-[Download paper here](https://goo.gl/jWd2gp)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Hardening+Freshman+Engineering+Student+Soft+Skills.) for full citation
+[Access paper here](https://goo.gl/jWd2gp){:target="_blank"}

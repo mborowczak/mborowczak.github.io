@@ -7,6 +7,4 @@ venue: 'In the proceedings of Proceedings of the 2nd International Conference on
 paperurl: 'https://goo.gl/nwAq5h'
 citation: ' Richard Yang,  Mike Borowczak, &quot;Predictive Liability Models and Visualizations of High Dimensional Retail Employee Data.&quot; In the proceedings of Proceedings of the 2nd International Conference on Innovation in Artificial Intelligence, 2018.'
 ---
-[Download paper here](https://goo.gl/nwAq5h)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Predictive+Liability+Models+and+Visualizations+of+High+Dimensional+Retail+Employee+Data) for full citation
+[Access paper here](https://goo.gl/nwAq5h){:target="_blank"}

@@ -7,6 +7,4 @@ venue: 'Problems of Education in the 21st Century'
 paperurl: 'https://goo.gl/XaKzEU'
 citation: ' Mike Borowczak, &quot;Communication in STEM education: A non-intrusive method for assessment and K20 educator feedback.&quot; Problems of Education in the 21st Century, 2015.'
 ---
-[Download paper here](https://goo.gl/XaKzEU)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Communication+in+STEM+education:+A+non+intrusive+method+for+assessment+&amp;+K20+educator+feedback) for full citation
+[Access paper here](https://goo.gl/XaKzEU){:target="_blank"}

@@ -7,6 +7,4 @@ venue: 'In the proceedings of Rocky Mountain Section of the American Society of 
 paperurl: 'https://goo.gl/g6zhRR'
 citation: ' Mike Borowczak,  Andrea Burrows, &quot;Developing Collegiate Cybersecurity Interest through Authentic Inquiry.&quot; In the proceedings of Rocky Mountain Section of the American Society of Engineering Education, 2017. RMS-ASEE 2017, 2017.'
 ---
-[Download paper here](https://goo.gl/g6zhRR)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Developing+Collegiate+Cybersecurity+Interest+through+Authentic+Inquiry) for full citation
+[Access paper here](https://goo.gl/g6zhRR){:target="_blank"}

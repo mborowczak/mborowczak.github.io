@@ -7,6 +7,4 @@ venue: 'In the proceedings of VLSI (ISVLSI), 2014 IEEE Computer Society Annual S
 paperurl: 'https://goo.gl/CDEVzz'
 citation: ' Mike Borowczak,  Ranga Vemuri, &quot;Enabling side channel secure FSMs in the presence of low power requirements.&quot; In the proceedings of VLSI (ISVLSI), 2014 IEEE Computer Society Annual Symposium on, 2014.'
 ---
-[Download paper here](https://goo.gl/CDEVzz)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Enabling+side+channel+secure+FSMs+in+the+presence+of+low+power+requirements) for full citation
+[Access paper here](https://goo.gl/CDEVzz){:target="_blank"}

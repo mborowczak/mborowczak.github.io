@@ -7,6 +7,4 @@ venue: 'In the proceedings of 2018 International ISC2 Workshop on 5G Communicati
 paperurl: 'https://goo.gl/nwdN74'
 citation: ' Shaya Wolf,  Rafer Cooley,  Mike Borowczak,  Nick Cheney, &quot;EVO-SCHIRP: Evolved Secure Swarm Communications.&quot; In the proceedings of 2018 International ISC2 Workshop on 5G Communication, Security and Privacy in Smart Cities, 2018.'
 ---
-[Download paper here](https://goo.gl/nwdN74)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=EVO+SCHIRP:+Evolved+Secure+Swarm+Communications) for full citation
+[Access paper here](https://goo.gl/nwdN74){:target="_blank"}

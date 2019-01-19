@@ -7,6 +7,4 @@ venue: 'In the proceedings of 2018 IEEE Computer Society Annual Symposium on VLS
 paperurl: 'https://goo.gl/iiuuK4'
 citation: ' Mike Borowczak,  Rafer Cooley,  Shaya Wolf, &quot;Designing for Security Within and Between IoT Devices.&quot; In the proceedings of 2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2018.'
 ---
-[Download paper here](https://goo.gl/iiuuK4)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Designing+for+Security+Within+and+Between+IoT+Devices) for full citation
+[Access paper here](https://goo.gl/iiuuK4){:target="_blank"}

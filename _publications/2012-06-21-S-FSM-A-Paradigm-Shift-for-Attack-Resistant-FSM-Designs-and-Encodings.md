@@ -7,6 +7,4 @@ venue: 'In the proceedings of BioMedical Computing (BioMedCom), 2012 ASE/IEEE In
 paperurl: 'https://goo.gl/nxM6AE'
 citation: ' Mike Borowczak,  Ranga Vemuri, &quot;S* FSM: A Paradigm Shift for Attack Resistant FSM Designs and Encodings.&quot; In the proceedings of BioMedical Computing (BioMedCom), 2012 ASE/IEEE International Conference on, 2012.'
 ---
-[Download paper here](https://goo.gl/nxM6AE)
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=S*+FSM:+A+Paradigm+Shift+for+Attack+Resistant+FSM+Designs+and+Encodings) for full citation
+[Access paper here](https://goo.gl/nxM6AE){:target="_blank"}
