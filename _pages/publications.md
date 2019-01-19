@@ -12,5 +12,11 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+   {% assign currentYear = post.date | date: "%Y" %}
+   {% if currentYear != myYear %}
+     <h2>{{ currentDate }}</h2>
+     {% assign myYear = currentyear %}
+   {% endif %}
+   
+   {% include archive-single.html %}
 {% endfor %}
